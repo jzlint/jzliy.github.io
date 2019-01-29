@@ -2,6 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://jzliy.github.io/categories/index.html</loc>
+    
+    <lastmod>2019-01-28T06:23:59.072Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jzliy.github.io/home/index.html</loc>
+    
+    <lastmod>2019-01-28T05:59:30.574Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jzliy.github.io/archives/index.html</loc>
+    
+    <lastmod>2019-01-28T05:59:13.985Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jzliy.github.io/tags/index.html</loc>
+    
+    <lastmod>2019-01-28T05:58:10.045Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jzliy.github.io/about/index.html</loc>
+    
+    <lastmod>2019-01-28T05:56:29.253Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jzliy.github.io/404/index.html</loc>
+    
+    <lastmod>2019-01-28T05:55:44.589Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://jzliy.github.io/search/index.html</loc>
+    
+    <lastmod>2019-01-28T05:55:34.159Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://jzliy.github.io/2019/01/28/hello-world/</loc>
     
     <lastmod>2019-01-27T23:01:45.390Z</lastmod>
